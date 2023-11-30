@@ -1,2 +1,2 @@
 # bootstrapodev
-file:///C:/Users/msn/Desktop/bootstrapodev/index.html
+https://polite-island-026c14200.4.azurestaticapps.net
